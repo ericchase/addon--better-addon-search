@@ -1,6 +1,6 @@
 # addon--better-addon-search
 
-Extension to add better search algorithm to addon stores (Chrome and Firefox).
+Better search algorithm for browser addon stores (Chrome and Firefox).
 
 ## Browser Addon
 

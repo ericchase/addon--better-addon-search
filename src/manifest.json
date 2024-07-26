@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Reload All Tabs (in Window)",
+  "name": "Better Addon Search",
   "version": "0.0.0",
-  "description": "Reload all open tabs in current window.",
+  "description": "Better search algorithm for browser addon stores (Chrome and Firefox).",
   "author": "ericchase",
   "permissions": ["contextMenus", "storage"],
   "action": {},
