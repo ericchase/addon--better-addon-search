@@ -1,0 +1,12 @@
+{
+  "Chrome": {
+    "key": ""
+  },
+  "Firefox": {
+    "browser_specific_settings": {
+      "gecko": {
+        "id": ""
+      }
+    }
+  }
+}
